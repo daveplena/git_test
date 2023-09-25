@@ -1,0 +1,4 @@
+Stuff copied from f2:
+This text resides inside f2.txt file
+
+new line for f2
